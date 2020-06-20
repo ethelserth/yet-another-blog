@@ -34,7 +34,6 @@ class HomeIndex extends React.Component {
 
                         <ul className="actions">
                             <li><Link to={`blog`} className="button">All Articles</Link></li>
-                            <li><Link to={`subscribe`} className="button">All Newsletters</Link></li>
                         </ul>
                     </section>
 
